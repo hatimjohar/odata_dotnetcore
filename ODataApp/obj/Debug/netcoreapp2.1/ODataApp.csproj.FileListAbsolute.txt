@@ -1,0 +1,14 @@
+D:\My Developments\github\ODataApp\ODataApp\bin\Debug\netcoreapp2.1\ODataApp.deps.json
+D:\My Developments\github\ODataApp\ODataApp\bin\Debug\netcoreapp2.1\ODataApp.runtimeconfig.json
+D:\My Developments\github\ODataApp\ODataApp\bin\Debug\netcoreapp2.1\ODataApp.runtimeconfig.dev.json
+D:\My Developments\github\ODataApp\ODataApp\bin\Debug\netcoreapp2.1\ODataApp.dll
+D:\My Developments\github\ODataApp\ODataApp\obj\Debug\netcoreapp2.1\ODataApp.csprojAssemblyReference.cache
+D:\My Developments\github\ODataApp\ODataApp\obj\Debug\netcoreapp2.1\ODataApp.csproj.CoreCompileInputs.cache
+D:\My Developments\github\ODataApp\ODataApp\obj\Debug\netcoreapp2.1\ODataApp.RazorAssemblyInfo.cache
+D:\My Developments\github\ODataApp\ODataApp\obj\Debug\netcoreapp2.1\ODataApp.RazorAssemblyInfo.cs
+D:\My Developments\github\ODataApp\ODataApp\obj\Debug\netcoreapp2.1\ODataApp.AssemblyInfoInputs.cache
+D:\My Developments\github\ODataApp\ODataApp\obj\Debug\netcoreapp2.1\ODataApp.AssemblyInfo.cs
+D:\My Developments\github\ODataApp\ODataApp\obj\Debug\netcoreapp2.1\ODataApp.RazorTargetAssemblyInfo.cache
+D:\My Developments\github\ODataApp\ODataApp\bin\Debug\netcoreapp2.1\ODataApp.pdb
+D:\My Developments\github\ODataApp\ODataApp\obj\Debug\netcoreapp2.1\ODataApp.dll
+D:\My Developments\github\ODataApp\ODataApp\obj\Debug\netcoreapp2.1\ODataApp.pdb
