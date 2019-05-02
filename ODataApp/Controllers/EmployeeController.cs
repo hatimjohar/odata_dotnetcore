@@ -12,7 +12,6 @@ namespace ODataApp.Controllers
     {
         [ODataRoute]
         [EnableQuery(PageSize = 5, AllowedQueryOptions = AllowedQueryOptions.All)]
-        [HttpGet]
         public IQueryable<Employee> Get()
         {
             List<Employee> employees = new List<Employee>();
